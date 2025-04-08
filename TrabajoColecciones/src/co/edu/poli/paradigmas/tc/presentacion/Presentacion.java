@@ -3,7 +3,7 @@ package co.edu.poli.paradigmas.tc.presentacion;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
-import java.util.Scanner;
+
 
 import co.edu.poli.paradigmas.tc.entities.Email;
 import co.edu.poli.paradigmas.tc.entities.Persona;
@@ -14,6 +14,8 @@ import co.edu.poli.paradigmas.tc.negocio.TelefonoManager;
 import co.edu.poli.paradigmas.tc.negocio.TipoDocumentoManager;
 
 public class Presentacion {
+	dfgdgdggd
+	
 	
 	private static List<Persona> miAgenda;
 
